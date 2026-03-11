@@ -1,0 +1,31 @@
+# === Core ===
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# === Blockchain / Cardano ===
+blockfrost-python>=0.6.0
+pycardano>=0.11.0
+
+# === Data Analysis ===
+pandas>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scipy>=1.12.0
+openpyxl>=3.1.0
+
+# === Jupyter ===
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipykernel>=6.29.0
+
+# === Database Clients ===
+supabase>=2.0.0
+pymongo>=4.6.0
+
+# === Monitoring ===
+sentry-sdk>=1.40.0
+
+# === Utilities ===
+rich>=13.7.0
+tqdm>=4.66.0
